@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PolarReminder</string>
+    <string name="widget_label">PolarReminder · anillos</string>
+    <string name="widget_description">Tus recordatorios recurrentes en la pantalla de inicio. Toca un anillo para marcarlo como hecho.</string>
+</resources>
